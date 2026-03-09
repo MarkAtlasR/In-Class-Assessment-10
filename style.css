@@ -3,3 +3,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+html{
+  background: #2B2524;
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  color: #F0E7E4;
+  line-height: 1.6;
+}
