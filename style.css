@@ -26,7 +26,7 @@ header{
  nav a{
    display: inline;
    padding: 20px, 0px, 20px, 0px;
-   color: #DB3939;
+   background-color: #DB3939;
    text-decoration: none;
 }
 
@@ -39,6 +39,7 @@ header{
 main{
   position: relative
   margin: 25px;
+  padding: 25px, 25px, 0px, 25px;
   
 }
 
@@ -53,6 +54,7 @@ h1{
 .hero{
   width: 500px;
   border-radius: 5px;
+  margin-bottom: 20px;
 }
 
 .sticky{
@@ -63,5 +65,8 @@ position: sticky;
   float: right;
 }
 
+.story{
+text-align: justify;
+}
 
 
