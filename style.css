@@ -23,7 +23,7 @@ header{
   width: 100vw;
 }
 
- nav{
+ nav a{
    display: inline;
    padding: 20px, 0px, 20px, 0px;
    color: #DB3939;
@@ -54,4 +54,6 @@ h1{
   width: 500px;
   border-radius: 5px;
 }
+
+
 
