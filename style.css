@@ -16,13 +16,25 @@ header{
   text-transform: uppercase;
   float: right;
   position: fixed;
-  padding: 20px, 0px, 20px, 0px;
   letter-spacing: 2px;
   z-index: 10;
   font-weight: bold;
   text-decoration: none;
   width: 100vw;
 }
+
+ nav{
+   display: inline;
+   padding: 20px, 0px, 20px, 0px;
+   color: #DB3939;
+   text-decoration: none;
+}
+
+.spooky{
+  font-weight: 700;
+  float: left;
+}
+
 
 main{
   position: relative
@@ -42,3 +54,4 @@ h1{
   width: 500px;
   border-radius: 5px;
 }
+
