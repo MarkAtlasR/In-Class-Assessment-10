@@ -14,14 +14,14 @@ html{
 
 header{
   text-transform: uppercase;
-  text-align: right;
+  float: right;
   position: fixed;
-  padding: 15px, 0px, 15px, 0px"
+  padding: 20px, 0px, 20px, 0px;
   letter-spacing: 2px;
   z-index: 10;
   font-weight: bold;
   text-decoration: none;
-  width: 100%;
+  width: 100vw;
 }
 
 main{
@@ -36,4 +36,9 @@ h1{
   text-transform: uppercase;
   letter-spacing: 3px;
   margin-bottom: 20px;
+}
+
+.hero{
+  width: 500px;
+  border-radius: 5px;
 }
