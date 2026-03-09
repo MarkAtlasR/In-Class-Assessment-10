@@ -5,7 +5,7 @@
 }
 
 html{
-  background: #2B2524;
+  background-color: #2B2524;
   font-family: Helvetica, sans-serif;
   font-size: 14px;
   color: #F0E7E4;
@@ -16,17 +16,19 @@ header{
   text-transform: uppercase;
   float: right;
   position: fixed;
-  letter-spacing: 2px;
   z-index: 10;
   font-weight: bold;
   text-decoration: none;
   width: 100vw;
+  background-color: #DB3939;
+  padding: 10px;
+  top: 0px;
+  left: 0px;  
 }
 
  nav a{
    display: inline;
-   padding: 20px, 0px, 20px, 0px;
-   background-color: #DB3939;
+   padding: 0px 10px; 
    text-decoration: none;
 }
 
@@ -69,5 +71,6 @@ position: sticky;
 .story{
 text-align: justify;
 }
+
 
 
