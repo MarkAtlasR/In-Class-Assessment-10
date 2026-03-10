@@ -65,10 +65,14 @@ h1{
 
 .sticky{
 position: sticky;
+width: 90vw;
+top: 200px;
 }
 
 .unknomn{
 float: right;
+width: auto;
+height: 150px;
 }
 
 .story{
