@@ -13,13 +13,13 @@ html{
 }
 
 header{
+  width: 100vw;
   text-transform: uppercase;
   float: right;
   position: fixed;
   z-index: 10;
   font-weight: bold;
   text-decoration: none;
-  width: 100vw;
   background-color: #DB3939;
   padding: 10px;
   top: 0px;
@@ -39,7 +39,7 @@ header{
 
 
 main{
-  position: relative
+  position: relative;
   margin: 25px;
   padding: 25px, 25px, 0px, 25px;
   width: 500px;
