@@ -32,11 +32,13 @@ header{
    text-decoration: none;
    color: black;
    float: right;
+   font-family: Georgia;
 }
 
 .spooky{
   font-weight: 700;
   float: left;
+  font-family: Georgia;
 }
 
 
@@ -78,6 +80,18 @@ height: 150px;
 .story{
 text-align: justify;
 }
+/*HVHA*/
+a:link {
+   color:#2f4f4f ;
+}
+a:visited {
+   color:#696969 ;
+}
+a:hover {
+   color:#00ffff ;
+}
+a:active {
+   color:#b22222 ;
 
 
 
