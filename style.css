@@ -30,6 +30,8 @@ header{
    display: inline;
    padding: 0px 10px; 
    text-decoration: none;
+   color: black;
+   float: right;
 }
 
 .spooky{
@@ -52,6 +54,7 @@ h1{
   text-transform: uppercase;
   letter-spacing: 3px;
   margin-bottom: 20px;
+  padding-top: 30px;
 }
 
 .hero{
@@ -65,7 +68,7 @@ position: sticky;
 }
 
 .unknomn{
-  float: right;
+float: right;
 }
 
 .story{
