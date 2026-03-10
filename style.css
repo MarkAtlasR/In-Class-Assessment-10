@@ -65,16 +65,16 @@ h1{
   margin-bottom: 20px;
 }
 
-.sticky{
-position: sticky;
+.stik{
 width: 90vw;
-top: 200px;
+top: 200px;  
+position: sticky;
 }
 
 .unknomn{
-float: right;
-width: auto;
 height: 150px;
+width: auto;
+float: right;  
 }
 
 .story{
