@@ -82,13 +82,13 @@ text-align: justify;
 }
 /*HVHA*/
 a:link {
-   color:#2f4f4f ;
+   color:#EDEDED ;
 }
 a:visited {
-   color:#696969 ;
+   color:#120909 ;
 }
 a:hover {
-   color:#00ffff ;
+   color: #8C4545 ;
 }
 a:active {
    color:#b22222 ;
